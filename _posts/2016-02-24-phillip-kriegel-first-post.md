@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "First Post"
+title: "Beginning a Blog"
 date: 2016-02-24
 ---
 
-Hello!
+I always wanted to have a blog!
